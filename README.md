@@ -1,5 +1,5 @@
 # CsharpChallenges
-**Code Challenges using C#\\**
+**Code Challenges using C#\**
 
 As part of the first code challenge of the Women Developer BootCamp sponsored by Bancocarrefour and done at Digital One innovation, a few codes in C# where develeoped:\
 **Bhaskara:** solving a second degree equation giving the a b and c coefficients and giving also an output for unsolvable ones.\
