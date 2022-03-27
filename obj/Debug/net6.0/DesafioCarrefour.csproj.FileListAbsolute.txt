@@ -1,0 +1,15 @@
+/home/macagogo/Estudos/DIO/DesafioCarrefour/obj/Debug/net6.0/DesafioCarrefour.csproj.AssemblyReference.cache
+/home/macagogo/Estudos/DIO/DesafioCarrefour/obj/Debug/net6.0/DesafioCarrefour.GeneratedMSBuildEditorConfig.editorconfig
+/home/macagogo/Estudos/DIO/DesafioCarrefour/obj/Debug/net6.0/DesafioCarrefour.AssemblyInfoInputs.cache
+/home/macagogo/Estudos/DIO/DesafioCarrefour/obj/Debug/net6.0/DesafioCarrefour.AssemblyInfo.cs
+/home/macagogo/Estudos/DIO/DesafioCarrefour/obj/Debug/net6.0/DesafioCarrefour.csproj.CoreCompileInputs.cache
+/home/macagogo/Estudos/DIO/DesafioCarrefour/bin/Debug/net6.0/DesafioCarrefour
+/home/macagogo/Estudos/DIO/DesafioCarrefour/bin/Debug/net6.0/DesafioCarrefour.deps.json
+/home/macagogo/Estudos/DIO/DesafioCarrefour/bin/Debug/net6.0/DesafioCarrefour.runtimeconfig.json
+/home/macagogo/Estudos/DIO/DesafioCarrefour/bin/Debug/net6.0/DesafioCarrefour.dll
+/home/macagogo/Estudos/DIO/DesafioCarrefour/bin/Debug/net6.0/DesafioCarrefour.pdb
+/home/macagogo/Estudos/DIO/DesafioCarrefour/obj/Debug/net6.0/DesafioCarrefour.dll
+/home/macagogo/Estudos/DIO/DesafioCarrefour/obj/Debug/net6.0/refint/DesafioCarrefour.dll
+/home/macagogo/Estudos/DIO/DesafioCarrefour/obj/Debug/net6.0/DesafioCarrefour.pdb
+/home/macagogo/Estudos/DIO/DesafioCarrefour/obj/Debug/net6.0/DesafioCarrefour.genruntimeconfig.cache
+/home/macagogo/Estudos/DIO/DesafioCarrefour/obj/Debug/net6.0/ref/DesafioCarrefour.dll
